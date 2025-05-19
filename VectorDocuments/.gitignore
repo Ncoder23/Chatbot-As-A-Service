@@ -1,0 +1,5 @@
+.DS_Store
+id_map.pkl
+vector.index
+metadata.db
+uploads/
